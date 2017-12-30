@@ -12,6 +12,8 @@
 		C73C68211FF7B06C002E857D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C73C681F1FF7B06C002E857D /* Main.storyboard */; };
 		C73C68231FF7B06C002E857D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C73C68221FF7B06C002E857D /* Assets.xcassets */; };
 		C73C68261FF7B06C002E857D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C73C68241FF7B06C002E857D /* LaunchScreen.storyboard */; };
+		C73C682F1FF7B297002E857D /* Argentina.png in Resources */ = {isa = PBXBuildFile; fileRef = C73C682D1FF7B297002E857D /* Argentina.png */; };
+		C73C68301FF7B297002E857D /* Australia.png in Resources */ = {isa = PBXBuildFile; fileRef = C73C682E1FF7B297002E857D /* Australia.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		C73C68221FF7B06C002E857D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C73C68251FF7B06C002E857D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C73C68271FF7B06C002E857D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C73C682D1FF7B297002E857D /* Argentina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Argentina.png; sourceTree = "<group>"; };
+		C73C682E1FF7B297002E857D /* Australia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Australia.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		C73C681A1FF7B06C002E857D /* SwiftButton */ = {
 			isa = PBXGroup;
 			children = (
+				C73C682D1FF7B297002E857D /* Argentina.png */,
+				C73C682E1FF7B297002E857D /* Australia.png */,
 				C73C681B1FF7B06C002E857D /* AppDelegate.swift */,
 				C73C681D1FF7B06C002E857D /* ViewController.swift */,
 				C73C681F1FF7B06C002E857D /* Main.storyboard */,
@@ -123,7 +129,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C73C68301FF7B297002E857D /* Australia.png in Resources */,
 				C73C68261FF7B06C002E857D /* LaunchScreen.storyboard in Resources */,
+				C73C682F1FF7B297002E857D /* Argentina.png in Resources */,
 				C73C68231FF7B06C002E857D /* Assets.xcassets in Resources */,
 				C73C68211FF7B06C002E857D /* Main.storyboard in Resources */,
 			);
